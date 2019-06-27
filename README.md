@@ -9,7 +9,7 @@
 1. Submit a Pull Request back to the assignment repo
 1. Paste a link to of your Fork on Canvas and submit
 
-## Question 1
+## Question 1.1
 
 You are given three grades obtained by 3 students, which are stored in variables `grade1`, `grade2`, `grade3` and all of type `Double`.
 Create a variable called `yourGrade` of type `Double` and give it a value.
